@@ -1,0 +1,6 @@
+/home/xpy/xport/example/CMakeFiles/simple_demo.dir
+/home/xpy/xport/example/CMakeFiles/decrypt_demo.dir
+/home/xpy/xport/example/CMakeFiles/m3u8_demo.dir
+/home/xpy/xport/example/CMakeFiles/mix_demo.dir
+/home/xpy/xport/example/CMakeFiles/edit_cache.dir
+/home/xpy/xport/example/CMakeFiles/rebuild_cache.dir

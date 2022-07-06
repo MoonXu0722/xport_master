@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g  -rdynamic CMakeFiles/m3u8_demo.dir/m3u8.cpp.o  -o m3u8_demo   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib ../src/libxport.a -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g  -rdynamic CMakeFiles/decrypt_demo.dir/decrypt.cpp.o  -o decrypt_demo   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib ../src/libxport.a -lpthread 
